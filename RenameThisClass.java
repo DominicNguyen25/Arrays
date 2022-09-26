@@ -19,5 +19,5 @@ public class RenameThisClass
         for (int d = 0; d <strArray.length;d++) {
             System.out.print("-" + strArray[d]);
         }
-        }
     }
+}
